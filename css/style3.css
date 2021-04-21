@@ -153,3 +153,12 @@ text-align: center;
     height: 100%;
 }
 /* estilos de la galeria */
+
+/* estilo de la galería en el portafolio */
+.gallery_item{
+    transition: .5s ease-in-out;
+  }
+  .gallery_item:hover{
+    filter: brightness(80%);
+  }
+/* estilo de la galería en el portafolio */
